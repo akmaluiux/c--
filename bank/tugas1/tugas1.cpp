@@ -11,7 +11,7 @@ int main(){
 menu:
     system("cls");
     cout<<" Nama : Akmal Kafi Ar ridho"<<endl;
-    cout<<" NIM : 2212110019"<<endl;
+    cout<<" NIM  : 2212110019"<<endl;
     cout<<" ____________________________"<<endl;
     cout<<"|__________TUGAS DDP_________|"<<endl;
     cout<<"| 1. Luas segitiga           |"<<endl;
@@ -67,9 +67,9 @@ menu:
         b=c;
 
         cout<<endl;
-        cout<<"______HASIL PERTUKARAN NILAI______"<<endl<<endl;
-        cout<<" Nilai a adalah : "<<a<<endl;
-        cout<<" Nilai b adalah : "<<b<<endl;
+        cout<<" Hasil pertukaran nilai adalah :"<<endl<<endl;
+        cout<<"      Nilai a adalah : "<<a<<endl;
+        cout<<"      Nilai b adalah : "<<b<<endl;
         cout<<"_______________________________"<<endl;
         cout<<" masukkan angka 0 untuk kembali ke menu : ";cin>>x; goto menu;
     }
