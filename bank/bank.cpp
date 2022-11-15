@@ -1,11 +1,17 @@
 #include <iostream>
 
+
 using namespace std;
+
+
 
 int main(){
     string pill;
     int rek,x;
     int nominal;
+    
+    
+
 
 menu:
     system("cls");
