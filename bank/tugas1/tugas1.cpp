@@ -7,6 +7,9 @@ int main(){
     float L;
     string pill;
 
+    cout<<" Nama : Akmal Kafi Ar ridho"<<endl;
+    cout<<" NIM : 2212110019"<<endl;
+
 menu:
     system("cls");
     cout<<" ____________________________"<<endl;
