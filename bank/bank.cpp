@@ -10,7 +10,9 @@ int main(){
 menu:
     system("cls");
     cout<<" ______________________________________"<<endl;
-    cout<<"|______________MINI BANK_______________|"<<endl;
+    cout<<"|              MINI BANK               |"<<endl;
+    cout<<"|______________________________________|"<<endl;
+    cout<<"|___________DAFTAR TRANSAKSI___________|"<<endl;
     cout<<"| 1. Tarik Tunai                       |"<<endl;
     cout<<"| 2. Simpan uang                       |"<<endl;
     cout<<"| 3. Transfer uang                     |"<<endl;
