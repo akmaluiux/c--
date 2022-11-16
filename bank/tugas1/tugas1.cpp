@@ -68,14 +68,20 @@ menu:
 
         cout<<endl;
         cout<<" Hasil pertukaran nilai adalah :"<<endl<<endl;
+
+        cout<<"sebelum"<<endl;
+        cout<<"      Nilai a adalah : "<<c<<endl;
+        cout<<"      Nilai b adalah : "<<a<<endl;
+
+        cout<<"sesudah"<<endl;
         cout<<"      Nilai a adalah : "<<a<<endl;
-        cout<<"      Nilai b adalah : "<<b<<endl;
+        cout<<"      Nilai b adalah : "<<b<<endl;  
         cout<<"_______________________________"<<endl;
         cout<<" masukkan angka 0 untuk kembali ke menu : ";cin>>x; goto menu;
     }
 
     if(pill>"3"){
-        cout<<"________maaf pilihan tidak tersedi________"<<endl;
+        cout<<"________maaf pilihan tidak tersedia________"<<endl;
         cout<<" masukkan angka 0 untuk kembali ke menu : ";cin>>x; goto menu;
     }
 
