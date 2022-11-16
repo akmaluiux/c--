@@ -61,7 +61,6 @@ menu:
         cout<<" masukan nilai b : ";
         cin>>b;
 
-        // proses pertukaran
         c=a;
         a=b;
         b=c;
